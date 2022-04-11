@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yuvrajverma01/Algorithms-Visualizer.git"
+    "url": "git+https://github.com/TusharDixit01/TusharDixit01.github.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yuvrajverma01/Algorithms-Visualizer/issues"
+    "url": "https://github.com/TusharDixit01/TusharDixit01.github.io/issues"
   },
-  "homepage": "https://github.com/yuvrajverma01/Algorithms-Visualizer#readme",
+  "homepage": "https://github.com/TusharDixit01/TusharDixit01.github.io#readme",
   "dependencies": {
     "express": "^4.17.1"
   },
